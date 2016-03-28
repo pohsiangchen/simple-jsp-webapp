@@ -1,5 +1,5 @@
 # simple-jsp-webapp
-A simple CRUD web application with pure JSP. Next part let's show how to decouple server and client using REST api.
+A simple CRUD web application with pure JSP. Next part let's how to decouple server and client using REST api.
 
 # Installation 
 Make sure you have installed [Java](https://java.com/en/download/help/index_installing.xml) and [Gradle](https://docs.gradle.org/current/release-notes)
